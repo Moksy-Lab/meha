@@ -1,0 +1,61 @@
+{
+  "name": "Meha",
+  "description": "Meha is an e-learning bootstrap template built with the latest technologies and customisable codes.
+They are amazingly decorated by snippets. This software solution is extremely rich with full of outstanding
+features as well as integrated with the highest level of security. With this template, one can easily set up 
+their e-learning business and run it with no hassle. ",
+  "short_name": "meha",
+  "id:": "/index.html",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fbfbfb",
+  "theme_color": "#fbfbfb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://builder.moksy.com/wp-content/uploads/2022/08/apple-icon-152x152-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
